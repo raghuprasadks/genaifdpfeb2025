@@ -1,0 +1,13 @@
+king strong man 
+queen wise woman 
+boy young man
+girl young woman 
+prince young
+prince strong
+princess young
+man strong 
+woman pretty
+prince boy 
+prince king
+princess girl
+princess queen

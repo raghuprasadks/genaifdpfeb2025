@@ -1,0 +1,23 @@
+Agenda:
+1. Introduction to AI
+2. Subsets of AI - 
+ML,DL,Generative AI
+3. Introduction to Generative AI
+4. Applications of Generative AI
+5. Large Language Models (LLM's)
+6. Hands-on sessions
+Getting started with Coherent/OpenAI
+Tools used - Google Colab
+
+Online notebook editor with pre-installed 
+libraries with computing power
+
+
+https://colab.research.google.com/
+Steps
+1. Login to colab
+2. Create a new notebook
+3. Write any python program
+finding simpleinterest
+and run the program
+
