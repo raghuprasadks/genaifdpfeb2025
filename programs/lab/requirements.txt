@@ -1,0 +1,7 @@
+streamlit 
+requests 
+PyPDF2 
+langchain_cohere 
+cohere 
+langchain_community 
+faiss-cpu
