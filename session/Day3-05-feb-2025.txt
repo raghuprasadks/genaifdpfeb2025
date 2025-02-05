@@ -1,0 +1,27 @@
+1. Lab assignments
+2. RAG
+
+running program using visual studio code
+Step 1 - Visual Studio code community edition - done
+Step 2 - Download and install python - done
+Step 3 - Set the path - done
+find the location using idle ide
+C:\Users\lenovo\AppData\Local\Programs\Python\Python313
+bin
+scripts
+
+set the path
+to the location where python is installed
+and to scripts folder
+Step 4 - 
+create folder genailab
+Create and activate virtual environment
+
+python -m venv myvenv 
+.\myvenv\Scripts\activate
+
+pip install transformers
+
+
+Step 5 - install required libraries
+Step 6 - execute the program

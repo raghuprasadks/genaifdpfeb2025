@@ -1,0 +1,35 @@
+Recap
+
+1. Introduction to AI
+2. Subsets of AI
+3. Applications of AI
+4. Generative AI
+5. Hands on session
+OpenAI
+Cohere
+Create an account with OpenAI
+platform.openai.com
+
+cohere
+api key
+
+pandas
+series - time series
+t20
+1 - 10
+2 - 15
+3 - 20
+
+stock market - beml - 100.4 110.
+dataframe
+
+2 dimensional
+
+langchain  
+
+LangChain is an open-source framework designed for building applications powered by Large Language Models (LLMs). It simplifies the process of integrating LLMs into applications by providing tools to handle data retrieval, memory, agents, chains, and APIs efficiently.
+
+LangChain is widely used for building chatbots, question-answering systems, autonomous agents, and other AI-driven applications.
+
+
+
